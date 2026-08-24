@@ -277,7 +277,7 @@ export default function Footer() {
                 { name: "Services", href: "/services" },
                 { name: "Gallery", href: "/gallery" },
                 { name: "Contact", href: "/contact" },
-                { name: "Login", href: "/login" },
+                // { name: "Login", href: "/login" },
               ].map((link) => (
                 <a
                   key={link.name}
